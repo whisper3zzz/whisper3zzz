@@ -11,7 +11,7 @@
 <img src='https://github-readme-stats.vercel.app/api?username=Mairon1206&show_icons=true&theme=transparent' height="180px" />
 
 ## 🏃‍♂️ Personal Information
-- 🔭 **Who am I**: a student majoring in Computer Science and Technology at [**NJUPT**](https://www.njupt.edu.cn/).
-- 🌱 **Currently learning**: C, C++, Rust, Java, Linux, DataBase, Network, Distributed
-- 🐧 **OS I use**: Archlinux(workhouse), Debian, Ubuntu, Windows
-- 🧊 **Games I play**: Minecraft, Dead Cells, Battlefield and so on
+- 🔭 **Who am I**: a student majoring in Artificial Intelligence at [**NJUPT**](https://www.njupt.edu.cn/).
+- 🌱 **Currently learning**: C#, Lua,Unity Dev.,Computer Graphics
+- 🐧 **OS I use**: Windows
+- 🧊 **Games I play**: Valorant，CyberPunk 2077
