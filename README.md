@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3D&lines=std%3A%3Aprintln(%22Hello,+world!%22);" alt="Typing SVG" />
 </a>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs?username=Mairon1206&layout=compact&theme=transparent&hide=javascript,html,css' height="180px"/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs?username=whisper3zzz&layout=compact&theme=transparent&hide=javascript,html,css' height="180px"/>
 
 <br>
 
