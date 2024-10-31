@@ -8,7 +8,7 @@
 
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Mairon1206&show_icons=true&theme=transparent' height="180px" />
+<img src='https://github-readme-stats.vercel.app/api?username=whisper3zzz&show_icons=true&theme=transparent' height="180px" />
 
 ## 🏃‍♂️ Personal Information
 - 🔭 **Who am I**: a student majoring in Artificial Intelligence at [**NJUPT**](https://www.njupt.edu.cn/).
