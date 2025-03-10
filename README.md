@@ -10,6 +10,9 @@
 
 <img src='https://github-readme-stats-swart-one-32.vercel.app/api?username=whisper3zzz&show_icons=true&theme=radical' height="180px" />
 
+<br>
+<img src='https://github-readme-stats-swart-one-32.vercel.app/wakatime?username=whisper3zzz' height="180px" />
+
 ## 🏃‍♂️ Personal Information
 - 🔭 **Who am I**: a student majoring in Artificial Intelligence at [**NJUPT**](https://www.njupt.edu.cn/).
 - 🌱 **Currently learning**: C#, Lua,Unity Dev.,Computer Graphics
