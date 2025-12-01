@@ -12,6 +12,6 @@
 
 ## 🏃‍♂️ Personal Information
 - 🔭 **Who am I**: a student majoring in Artificial Intelligence at [**NJUPT**](https://www.njupt.edu.cn/).
-- 🌱 **Currently learning**: C#, Lua,Unity Dev.,Computer Graphics
+- 🌱 **Currently learning**: C#,C++,Lua,Unreal Engine5,Unity,Computer Graphics
 - 🐧 **OS I use**: Windows
 - 🧊 **Games I play**: Valorant，CyberPunk 2077
